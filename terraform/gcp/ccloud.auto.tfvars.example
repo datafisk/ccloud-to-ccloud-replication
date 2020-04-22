@@ -4,7 +4,7 @@
 
 src_bootstrap_server = "<CCLOUD_BOOTSTRAP_SERVER>"
 src_cluster_api_key = "<CCLOUD_API_KEY>"
-src_luster_api_secret = "<CCLOUD_API_SECRET>"
+src_cluster_api_secret = "<CCLOUD_API_SECRET>"
 
 dest_bootstrap_server = "<CCLOUD_BOOTSTRAP_SERVER>"
 dest_cluster_api_key = "<CCLOUD_API_KEY>"
